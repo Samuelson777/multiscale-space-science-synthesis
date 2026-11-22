@@ -4,9 +4,9 @@
 > *Department of Multidisciplinary Space Sciences, Theoretical Astrophysics, and Astrodynamics*
 > **Manuscript & Interactive Portal Release:** November 2026
 
-[![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.35416.66564-blue)](https://doi.org/10.13140/RG.2.2.35416.66564)  
-[![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/19544116)  
-[![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/165640547/Comprehensive_Analysis_of_Atmospheric_Pollution_Integrating_Fundamental_Chemistry_Epidemiological_Metrics_Sociological_Paradigms_and_Policy_Frameworks)  
+[![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.15098.66245-blue)](https://doi.org/10.13140/RG.2.2.15098.66245)  
+[![Zenodo](https://img.shields.io/badge/Zenodo-blue)](https://zenodo.org/records/24442713)  
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-blue)](https://www.academia.edu/181614744/Multiscale_Astrophysics_Observational_Cosmology_and_Astrodynamic_Architectures_A_Unified_Synthesis_of_Contemporary_Space_Science)  
 
 ---
 
